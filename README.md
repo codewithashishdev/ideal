@@ -1,6 +1,7 @@
 # My Project
 <details open>
 <summary>This is a project with the following dependencies:</summary>
+  
 - [accesscontrol](https://www.npmjs.com/package/accesscontrol): 2.2.1 (Latest: 2.2.1) [npm](https://www.npmjs.com/package/accesscontrol)
 - [bcrypt](https://www.npmjs.com/package/bcrypt): 5.1.0 (Latest: 5.1.1) [npm](https://www.npmjs.com/package/bcrypt)
 - [body-parser](https://www.npmjs.com/package/body-parser): 1.20.2 (Latest: 1.20.2) [npm](https://www.npmjs.com/package/body-parser)
